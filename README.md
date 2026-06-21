@@ -21,8 +21,6 @@ Los platos más pequeños son más difíciles de alcanzar y se desplazan más r�
 
 Este proyecto fue desarrollado íntegramente por mí utilizando **Unity**, **C#** y **Procreate** para la creación de todos los assets visuales.
 
-El proceso de desarrollo siguió varias etapas:
-
 En primer lugar, comencé definiendo la idea general del juego y buscando referencias visuales de ambientes inspirados en el lejano oeste, especialmente bares y estética western, para establecer el estilo artístico del proyecto.
 
 A partir de ahí, empecé con la implementación en Unity, creando las mecánicas principales del juego:
