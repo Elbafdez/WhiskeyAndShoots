@@ -4,6 +4,11 @@
 
 <img width="1917" height="1078" alt="W S_captura" src="https://github.com/user-attachments/assets/49a7bd4d-3d0a-4c0e-94d0-70b2d249e32d" />
 
+<p align="center">
+  <strong>
+    <a href="https://elbafdez.itch.io/whiskeyandshoots">Play Whiskey & Shots on itch.io</a>
+  </strong>
+</p>
 
 ## Sobre el juego
 
